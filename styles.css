@@ -1,0 +1,50 @@
+
+body{
+    color: #817878;
+}
+img{
+    width: 500px;
+}
+body{
+    background-image:
+        url("https://cdn.wuxiaworld.com/images/covers/og.jpg?ver=5224bb795f9ca73f40e8789f98bd4390993ee996");
+    background-repeat: no-repeat;
+	background-size: cover;
+	}
+h1, h2, h3, h4, p, ul{
+	background-color: #000000;
+    text-align: center;
+}
+.name{
+    color: #f44336;
+    font-family: 'Lobster', cursive;
+}
+.student{
+    color: #da7000;
+    font-family: 'EB Garamond', serif;
+}
+.OvergearedLink{
+    color: #74b1ea;
+    font-size: 30px;
+}
+h3{
+    font-size: 35px;
+    color: #8870C3 ;
+}
+ul{
+    color: #9068F4  ;
+        font-family: 'Noto Serif Display', serif;
+    font-size: 30px;
+}
+h4{
+    font-size: 35px;
+    color:#6833EA ;
+}
+.OvergearedBigPicture{
+    height: 500px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
